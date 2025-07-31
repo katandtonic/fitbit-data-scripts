@@ -1,0 +1,13 @@
+[project]
+name = "fitbit-data-scripts"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "ipython>=9.4.0",
+    "numpy>=2.3.2",
+    "psycopg2-binary>=2.9.10",
+    "python-dateutil>=2.9.0.post0",
+    "python-dotenv>=1.1.1",
+    "sqlalchemy>=2.0.42",
+]

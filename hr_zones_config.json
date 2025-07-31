@@ -1,0 +1,62 @@
+[
+  {
+    "zone": -2,
+    "name": "Sitting",
+    "low_hr_pct": null,
+    "high_hr_pct": 40
+  },
+  {
+    "zone": -1,
+    "name": "Standing", 
+    "low_hr_pct": 40,
+    "high_hr_pct": 50
+  },
+  {
+    "zone": 0,
+    "name": "Active Movement",
+    "low_hr_pct": 50,
+    "high_hr_pct": 60
+  },
+  {
+    "zone": 1,
+    "name": "Easy Exercise",
+    "low_hr_pct": 60,
+    "high_hr_pct": 70
+  },
+  {
+    "zone": 2,
+    "name": "Steady Endurance",
+    "low_hr_pct": null,
+    "high_hr_pct": null
+  },
+  {
+    "zone": 3,
+    "name": "Moderate Aerobic",
+    "low_hr_pct": null,
+    "high_hr_pct": null
+  },
+  {
+    "zone": 4,
+    "name": "Threshold",
+    "low_hr_pct": null,
+    "high_hr_pct": null
+  },
+  {
+    "zone": 5,
+    "name": "Max VO2 / Lactate",
+    "low_hr_pct": null,
+    "high_hr_pct": null
+  },
+  {
+    "zone": 6,
+    "name": "Tolerance/Production",
+    "low_hr_pct": null,
+    "high_hr_pct": null
+  },
+  {
+    "zone": 7,
+    "name": "Speed",
+    "low_hr_pct": null,
+    "high_hr_pct": null
+  }
+]
